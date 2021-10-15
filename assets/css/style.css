@@ -757,7 +757,7 @@ section {
   min-height: 320px;
 }
 
-.testimonials img{
+.testimonials01 img{
     width: 90px;
     border-radius: 50%;
     display: flex;
@@ -765,13 +765,9 @@ section {
     justify-content: center;
     margin: 0 auto;}
 
-.testimonials .testimonial-item .testimonial-img {
-  width: 90px;
-  border-radius: 50%;
-  margin: 0 auto;
-}
 
-.testimonials h3, .testimonials h4 {
+
+.testimonials01 h3, .testimonials01 h4 {
      display: flex;
     justify-content: center;
 }
