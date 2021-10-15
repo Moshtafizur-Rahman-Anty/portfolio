@@ -757,10 +757,23 @@ section {
   min-height: 320px;
 }
 
+.testimonials img{
+    width: 90px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;}
+
 .testimonials .testimonial-item .testimonial-img {
   width: 90px;
   border-radius: 50%;
   margin: 0 auto;
+}
+
+.testimonials h3, .testimonials h4 {
+     display: flex;
+    justify-content: center;
 }
 
 .testimonials .testimonial-item h3 {
